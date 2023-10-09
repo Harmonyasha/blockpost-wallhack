@@ -1,9 +1,1 @@
-### GENERAL INFORMATION:
-
-- An Example Mod for [MelonLoader](https://github.com/LavaGang/MelonLoader).
-
----
-
-### LICENSING & CREDITS:
-
-TestMod is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/LavaGang/TestMod/blob/master/LICENSE.md) for the full License.
+Качайте в релизах dll дальше качаем [лаунчер](http://www.playblockpost.com/) и устанавливаем там blockpost legacy потом ищем папку с игрой и качаем туда мелон[https://github.com/LavaGang/MelonLoader/releases/tag/v0.6.1] указываем там .exe и закидываем .dll в папку mods
