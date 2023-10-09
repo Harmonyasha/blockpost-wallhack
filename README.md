@@ -5,6 +5,6 @@ Download [Game launcher](http://www.playblockpost.com/) in launcher download blo
 Just use all library's in libs folder or run game 1 time and export all new decompiled dll
 #Russian Version
 ### Как запустить
-Скачайте [Game launcher](http://www.playblockpost.com/) в лаунчере устоновите blockpost legacy и [MelonLoader installer](https://github.com/LavaGang/MelonLoader/releases) в установщике Melonloader выберите .exe файл в папке с игрой blockpost legacy. Скачайте в [релизах](https://github.com/OwlUniversal/blockpost-wallhack/releases) или закомпилируйте и перетащите ваше .dll в папку mods. Нажмите на кнопку "G" и радуйтесь победам
+Скачайте [Game launcher](http://www.playblockpost.com/) в лаунчере установите blockpost legacy и [MelonLoader installer](https://github.com/LavaGang/MelonLoader/releases) в установщике Melonloader выберите .exe файл в папке с игрой blockpost legacy. Скачайте в [релизах](https://github.com/OwlUniversal/blockpost-wallhack/releases) или закомпилируйте и перетащите ваше .dll в папку mods. Нажмите на кнопку "G" и радуйтесь победам
 ## Как закомпилировать
 Просто используйте все библиотеки из папки libs или же запустите игру 1 раз и экспортируйте все новый декомпильнутые .dll
